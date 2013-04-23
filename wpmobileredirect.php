@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: MusicGrid.me Mobile Redirect
-Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
-Description: A brief description of the Plugin.
-Version: The Plugin's Version Number, e.g.: 1.0
-Author: Name Of The Plugin Author
-Author URI: http://URI_Of_The_Plugin_Author
-License: GTFO
+Plugin Name: Mobile Theme Redirect for WordPress
+Plugin URI: https://github.com/logoscreative/wp-mobile-theme-redirect
+Description: Redirect mobile users to another theme.
+Version: 0.1
+Author: cliffseal
+Author URI: http://logoscreative.co
+License: Whatever, for now.
 */
 
 include_once('Mobile_Detect.php');
